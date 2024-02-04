@@ -1,5 +1,4 @@
 # odin-recipes
-Certainly! Here's a short README.md template for your project:
 
 # Hawaiian Recipes Collection
 
